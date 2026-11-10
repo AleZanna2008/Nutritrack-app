@@ -1,0 +1,8 @@
+{
+	"appId": "it.nutritrack.app",
+	"appName": "NutriTrack",
+	"webDir": "www",
+	"android": {
+		"backgroundColor": "#f3f5f7"
+	}
+}
