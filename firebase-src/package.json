@@ -1,0 +1,7 @@
+{
+  "name": "nutritrack-firebase-bundle",
+  "private": true,
+  "scripts": { "build": "esbuild entry.js --bundle --minify --format=iife --target=es2019 --outfile=../www/firebase-bundle.js" },
+  "dependencies": { "firebase": "^11.0.0" },
+  "devDependencies": { "esbuild": "^0.24.0" }
+}
